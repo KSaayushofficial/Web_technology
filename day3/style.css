@@ -1,0 +1,82 @@
+.body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box1{
+    width: 15%;
+    height: 80px;
+    background-color: red;
+}
+.box2{
+    width: 80%;
+    height: 80px;
+    background-color: red;
+    margin-bottom: 50px;
+}
+
+.banner{
+    width: 100%;
+    height: 400px;
+    background-color: green;
+}
+
+.news{
+    display: flex;
+    justify-content: space-between;
+}
+
+.new1{
+    width: 30%;
+    height: 100px;
+    background-color: gold;
+    margin-top: 50px;
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box3{
+    width: 60%;
+    height: 250px;
+    background-color: red;
+    margin-top: 50px;
+}
+
+.box4{
+    width: 30%;
+    height: 250px;
+}
+
+.box5{
+    height: 40%;
+    margin-top: 50px;
+    background-color: red;
+}
+
+.body1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box6{
+    width: 47%;
+    height: 100px;
+    background-color: blue;
+    margin-top: 50px;
+}
+
+.body2{
+    width: 100%;
+    height: 200px;
+    background-color: yellowgreen;
+    margin-top: 50px;
+}
